@@ -4,9 +4,8 @@ import sqlite3
 import pandas as pd
 from datetime import date
 
-# ==========================================
+
 # 1. PAGE CONFIGURATION
-# ==========================================
 
 st.set_page_config(
     page_title="Smart Expense Tracker",
